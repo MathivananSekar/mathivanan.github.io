@@ -1,5 +1,3 @@
-# mathivanan.github.io
-
 Welcome to my blog where I delve into the fascinating world of data engineering and data science. Here, you'll find a blend of my professional experiences, personal insights, and the latest trends in the field.
 
 ## What You'll Find
